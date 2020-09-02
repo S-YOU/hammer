@@ -1,4 +1,4 @@
-module github.com/daichirata/hammer
+module github.com/s-you/hammer
 
 go 1.13
 
